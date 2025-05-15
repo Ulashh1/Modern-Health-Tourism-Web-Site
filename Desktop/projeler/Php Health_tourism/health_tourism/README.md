@@ -4,4 +4,8 @@ Türkiye'deki sağlık hizmetlerine uluslararası hastaların erişimini kolayla
 
 ## English Description
 
-Developed a comprehensive web platform facilitating international patients' access to healthcare services in Turkey, in collaboration with my classmate Emirhan Akdeniz. The platform features a user-friendly interface for doctor selection, treatment services, and appointment scheduling. Implemented key functionalities including multilingual support, secure authentication system, and payment integration. The project demonstrates proficiency in full-stack web development while addressing healthcare tourism needs. 
+Developed a comprehensive web platform facilitating international patients' access to healthcare services in Turkey, in collaboration with my classmate Emirhan Akdeniz. The platform features a user-friendly interface for doctor selection, treatment services, and appointment scheduling. Implemented key functionalities including multilingual support, secure authentication system, and payment integration. The project demonstrates proficiency in full-stack web development while addressing healthcare tourism needs.
+
+## Repository Information
+
+GitHub: [https://github.com/Ulashh1/Modern-Health-Tourism-Web-Site](https://github.com/Ulashh1/Modern-Health-Tourism-Web-Site) 
